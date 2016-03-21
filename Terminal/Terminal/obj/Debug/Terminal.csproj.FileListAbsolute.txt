@@ -1,0 +1,6 @@
+c:\users\metin\onedrive\documents\visual studio 2015\Projects\Terminal\Terminal\bin\Debug\Terminal.exe.config
+c:\users\metin\onedrive\documents\visual studio 2015\Projects\Terminal\Terminal\bin\Debug\Terminal.exe
+c:\users\metin\onedrive\documents\visual studio 2015\Projects\Terminal\Terminal\bin\Debug\Terminal.pdb
+c:\users\metin\onedrive\documents\visual studio 2015\Projects\Terminal\Terminal\obj\Debug\Terminal.csprojResolveAssemblyReference.cache
+c:\users\metin\onedrive\documents\visual studio 2015\Projects\Terminal\Terminal\obj\Debug\Terminal.exe
+c:\users\metin\onedrive\documents\visual studio 2015\Projects\Terminal\Terminal\obj\Debug\Terminal.pdb
